@@ -23,4 +23,4 @@ I plan to continue adding new notes and refining existing ones as I learn more.
 ---
 
 ## Connect with me here:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-alikhk/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-alikhk/)
