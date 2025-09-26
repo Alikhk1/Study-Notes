@@ -7,11 +7,13 @@ I wanted to share them openly so they might help or be useful to someone else wh
 ---
 
 ## Structure
+- **Data Analysis** - Forming Analytic Questions, Theory, Workflow
+- **Data Engineering** - Data Warehousing, Streaming, Kafka, Cloud Computing
+- **Data-literacy/** – Data fundamentals and ethics
+- **Devops/** – Docker, containers
+- **Machine Learning and AI/** – AI/ML concepts, algorithms, code, etc 
 - **Python/** – Core programming notes  
 - **Sql/** – Relational databases and queries  
-- **Machine Learning and AI/** – AI/ML concepts, algorithms, code, etc 
-- **Data-literacy/** – Data fundamentals and ethics  
-- **Devops/** – Docker, containers
 - **Shell/** - Shell commands and Scripting
 - **Statistics/** - Measures of Center/Spread, Probability, CLT, Hypothesis Testing
 
