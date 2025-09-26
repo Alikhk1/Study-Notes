@@ -1,17 +1,19 @@
 # Study Notes
 
-This repository contains my personal learning notes across different areas including Python, SQL, Machine Learning, Data Literacy, Docker, and more.  
+This repository contains my personal learning notes across different areas including Python, SQL, Machine Learning, Statistics, Data Literacy, Containerization, and more.  
 
 I wanted to share them openly so they might help or be useful to someone else who is learning these topics.  
 
 ---
 
 ## Structure
-- **python/** – core programming notes  
-- **sql/** – relational databases and queries  
-- **machine-learning/** – ML concepts and algorithms  
-- **data-literacy/** – data fundamentals and ethics  
-- **devops/** – Docker, containers, shell basics  
+- **Python/** – Core programming notes  
+- **Sql/** – Relational databases and queries  
+- **Machine Learning and AI/** – AI/ML concepts, algorithms, code, etc 
+- **Data-literacy/** – Data fundamentals and ethics  
+- **Devops/** – Docker, containers
+- **Shell/** - Shell commands and Scripting
+- **Statistics/** - Measures of Center/Spread, Probability, CLT, Hypothesis Testing
 
 Each folder includes `README.md` files for easy browsing.
 
